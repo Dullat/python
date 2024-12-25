@@ -1,7 +1,7 @@
 ```python
 import asyncio
 
-arr = ["red", "green", "yellow"]
+arr = ["red", "yellow", "green"]
 interval = 3
 
 def light_logic(x):

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fav progs/trafic light logic.md",
+                "file": "ch5 loops/loops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "trafic light logic"
+              "title": "loops"
             }
           }
         ]
@@ -164,8 +164,17 @@
   },
   "active": "87f6a1f30cbe6102",
   "lastOpenFiles": [
-    "python.md",
+    "ch5 loops/loops.md",
+    "ch4 dictionariesAndSets/sets.md",
+    "ch5 loops",
+    "ch3 listsAndTuples/lists nd tuples.md",
+    "ch4 dictionariesAndSets/dictionaries.md",
+    "ch3 listsAndTuples/programs/listAndTuples program.md",
+    "ch4 dictionariesAndSets",
+    "ch3 listsAndTuples/programs",
     "fav progs/trafic light logic.md",
+    "ch3 listsAndTuples",
+    "python.md",
     "fav progs"
   ]
 }
