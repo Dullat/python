@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ch8 oops/methods.md",
+                "file": "python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "methods"
+              "title": "python"
             }
           }
         ],
@@ -179,11 +179,12 @@
   },
   "active": "f27a07b8596d1c32",
   "lastOpenFiles": [
-    "ch8 oops/intro part 1.md",
+    "idk.md",
+    "ch8 oops/part 2.md",
     "ch8 oops/methods.md",
+    "ch8 oops/intro part 1.md",
     "ch7 file io/file.md",
     "ch8 oops",
-    "idk.md",
     "ch6 functions/fibonacci.md",
     "ch7 file io",
     "ch6 functions/recursion.md",
