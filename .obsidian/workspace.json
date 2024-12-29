@@ -179,15 +179,17 @@
   },
   "active": "f27a07b8596d1c32",
   "lastOpenFiles": [
+    "ch6 functions/fibonacci.md",
+    "ch6 functions/recursion.md",
+    "ch2 Strings/conditions.md",
+    "python.md",
     "idk.md",
     "ch8 oops/part 2.md",
     "ch8 oops/methods.md",
     "ch8 oops/intro part 1.md",
     "ch7 file io/file.md",
     "ch8 oops",
-    "ch6 functions/fibonacci.md",
     "ch7 file io",
-    "ch6 functions/recursion.md",
     "ch6 functions/basics.md",
     "ch5 loops/for.md",
     "ch6 functions",
@@ -201,7 +203,6 @@
     "ch3 listsAndTuples/programs",
     "fav progs/trafic light logic.md",
     "ch3 listsAndTuples",
-    "python.md",
     "fav progs"
   ]
 }

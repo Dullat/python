@@ -6,3 +6,12 @@ https://youtu.be/Mofum0bF_EY?si=WPG7XdR4M3mZxUxU
 
 code
 https://youtu.be/YQyQyxtLvi8?si=Vlxk50yhZWSPhr_t
+
+
+lambda functions
+memoization in recursion
+
+
+project cli todo
+
+check ruby on rails
